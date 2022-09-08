@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-<!--
-**abhiparate14/abhiparate14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Abhikumar+Parate;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
@@ -41,22 +24,19 @@ Here are some ideas to get you started:
 <!-- Skills as a table -->
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/python.svg" alt="python icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/node-js.svg" alt="node.js icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/mysql-logo.svg" alt="sql icon" /></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/kotlin.svg" alt="kotlin icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/c-sharp-logo-2.svg" alt="c# icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/java.svg" alt="java icon" /></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/scss.svg" alt="scss icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/html-5.svg" alt="html icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/css3.svg" alt="css icon" /></td>
+<td><img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/javascript.svg" alt="javascript icon" /></td>
 </tr>
 </table>
 
@@ -93,13 +73,13 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhikumar-parate-46a23a130/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/linkedin.svg" alt="my linkedin account" />
+<img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/linkedin.svg" alt="my linkedin account" />
 </a>
 <a href="https://twitter.com/beingabhiparate" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/twitter.svg" alt="my twitter account" />
+<img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/twitter.svg" alt="my twitter account" />
 </a>
 <a href="https://www.instagram.com/being_abhi_parate/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/reddit.svg" alt="my instagram account" />
+<img src="https://github.com/abhiparate14/abhiparate14/blob/main/icons/instagram.svg" alt="my instagram account" />
 </a>
 </p>
 
