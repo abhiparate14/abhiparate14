@@ -5,7 +5,9 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Abhikumar+Parate;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 <!-- Hero Section -->
-<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=abhiparate14&theme=react-dark" alt="Abhikumar Parate's github activity graph" /><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/output/snake-anime.svg" alt="Github Snake Animation"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=abhiparate14&theme=react-dark" alt="Abhikumar Parate's github activity graph" />
+
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14&layout=compact)](https://github.com/abhiparate14)
 
