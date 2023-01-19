@@ -12,6 +12,8 @@
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14&layout=compact)](https://github.com/abhiparate14) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14"/> -->
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 <!-- Profile Views -->
 <p align="center">
@@ -46,9 +48,9 @@
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhiparate14&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhiparate14&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abhiparate14&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiparate14&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abhiparate14&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
 </p>
 
 ---
