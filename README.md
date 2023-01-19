@@ -11,7 +11,7 @@
 <!-- <img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg"> -->
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14&layout=compact)](https://github.com/abhiparate14)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14&layout=compact)](https://github.com/abhiparate14) -->
 
 <!-- Profile Views -->
 <p align="center">
