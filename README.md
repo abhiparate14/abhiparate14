@@ -13,7 +13,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14&layout=compact)](https://github.com/abhiparate14) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14"/> -->
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+<!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a> -->
 
 <!-- Profile Views -->
 <p align="center">
