@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Abhikumar+Parate;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
