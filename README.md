@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 
@@ -12,13 +10,6 @@
 <!-- Hero Section -->
 <p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
   <img src="https://github.com/abhiparate14/abhiparate14/blob/output/github-contribution-grid-snake.svg">
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=abhiparate14&theme=react-dark" alt="Abhikumar Parate's github activity graph" /> -->
-<!-- <img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg"> -->
-</p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14&layout=compact)](https://github.com/abhiparate14) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiparate14"/> -->
-<!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a> -->
 
 <!-- Profile Views -->
 <p align="center">
